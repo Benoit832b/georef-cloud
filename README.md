@@ -4,7 +4,7 @@
 
 
 
-## Online point cloud georeferencing tool
+## Online point cloud georeferencing tool (LAS, LAZ, EPSG, CC, LAMBERT 93, WGS84, UTM)
 
 GeoRef Cloud is an online tool to georeference, reproject and merge point clouds (LAS, LAZ, EPSG, WGS84, UTM, Lambert).
 
