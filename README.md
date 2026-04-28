@@ -28,3 +28,6 @@ GeoRef Cloud is an online tool to georeference, reproject and merge point clouds
 ## Try the tool
 
 👉 https://landing.georef.cloud
+
+<img width="1536" height="1024" alt="screenshot" src="https://github.com/user-attachments/assets/c550eb8b-0bd5-4a0b-9cbd-08683900f87a" />
+
