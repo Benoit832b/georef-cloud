@@ -1,6 +1,7 @@
 # GeoRef Cloud
 
-<img width="1524" height="531" alt="screenshot" src="https://github.com/user-attachments/assets/9604e65b-9a83-4c3e-9805-0c848ccde21c" />
+![GeoRef Cloud] <img width="1464" height="527" alt="screenshot" src="https://github.com/user-attachments/assets/6f096e10-119c-4810-b9f8-11c89cdb6a0a" />
+
 
 
 ## Online point cloud georeferencing tool
