@@ -1,0 +1,7 @@
+# How to georeference a point cloud (LAS / LAZ)
+
+Georeferencing a point cloud allows you to align it with real-world coordinates.
+
+You can use an online tool like:
+
+👉 https://landing.georef.cloud
