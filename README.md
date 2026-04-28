@@ -1,6 +1,6 @@
 # GeoRef Cloud
 
-![GeoRef Cloud] <img width="1464" height="527" alt="screenshot" src="https://github.com/user-attachments/assets/6f096e10-119c-4810-b9f8-11c89cdb6a0a" />
+![GeoRef Cloud](screenshot.png) <img width="1464" height="527" alt="screenshot" src="https://github.com/user-attachments/assets/6f096e10-119c-4810-b9f8-11c89cdb6a0a" />
 
 
 
